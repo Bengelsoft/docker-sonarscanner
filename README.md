@@ -1,2 +1,2 @@
-# docker-sonnarscanner
+# docker-sonarscanner
 Executing the sonar scanner-cli using a container. (with support for plugins that need node.js)
