@@ -1,6 +1,6 @@
 FROM java:alpine
 
-ENV SONAR_SCANNER_VERSION 4.0.0.1744
+ENV SONAR_SCANNER_VERSION 4.7.0.2747
 RUN apk update && apk upgrade
 RUN apk add nodejs
 RUN apk add --no-cache wget git && \
